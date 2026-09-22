@@ -37,7 +37,7 @@ Steps taken:
 
 | PDB Creation | PDB Open State | User Created |
 |---|---|---|
-| ![PDB creation](screenshots/pdb_creation/pdb_creation_command.png) | ![PDB open state](screenshots/pdb_open_state.png) | ![User created](screenshots/user_created.png) |
+| ![PDB creation](Screenshots/pdb_creation/pdb_creation_command.png) | ![PDB open state](Screenshots/pdb_open_state.png) | ![User created](Screenshots/user_created.png) |
 
 ### Task 2: Create and Delete a PDB
 
@@ -54,7 +54,7 @@ Steps taken:
 
 | PDB Creation + Result | PDB Deletion + Result |
 |---|---|
-| ![PDB creation](screenshots/pdb_creation.png) | ![PDB deletion](screenshots/pdb_deletion.png) |
+| ![PDB creation](Screenshots/pdb_creation.png) | ![PDB deletion](Screenshots/pdb_deletion.png) |
 
 ### Task 3: Oracle Enterprise Manager (OEM) Setup
 
